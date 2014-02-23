@@ -90,7 +90,7 @@ Dragon can locate hero using the below co-ordinate system
  			    |			
 		  4th	    |		3rd
 			    | 		
-	H(-x,y)             |		H(-x,-y)
+	H(-x,y)       |		H(-x,-y)
   			    |
 			    |
 
