@@ -80,9 +80,9 @@ then, changing the location of Hero (xD-xH, yD-yH) with respect to dragon locati
 Dragon can locate hero using the below co-ordinate system
 
 			    |
- 		H(x,y)      |		H(x, -y)
+ 		H(x,y)    |		H(x, -y)
  			    |
- 		1st 	    |		2nd
+ 		1st 	  |		2nd
    			    |
  			    |
   	______|___________
