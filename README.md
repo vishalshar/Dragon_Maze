@@ -1,7 +1,6 @@
 		Project : Dragon Maze
 		Developer : Vishal Sharma
-			    A01789836
-		
+
 		
 This project is a game in which there is a maze with Walls (X), hero (H), dragon (D) 
 and an exit (E).
