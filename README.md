@@ -125,3 +125,7 @@ Method name calculatePath() in Dragon class
 8) Two data structures used are :-
 1) GridCell gridcell[][] in Grid class.
 2) ArrayList<Character> data in World class.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vishalshar/dragon_maze/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
